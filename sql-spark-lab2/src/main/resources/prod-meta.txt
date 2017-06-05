@@ -1,0 +1,4 @@
+product-id|name
+1|hammer
+2|axe
+3|screwdriver
