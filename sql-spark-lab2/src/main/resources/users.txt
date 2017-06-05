@@ -1,0 +1,4 @@
+id|email|location
+1|user1@test.com|EN
+2|user2@test2.com|EN
+3|user3@test3.com|FR
