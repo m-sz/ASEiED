@@ -4,4 +4,4 @@ trans_id|prod_id|user_id|purchase_amount|item_desc
 3|1|2|300|prod2
 4|2|3|100|prod2
 5|3|1|300|prod3
-5|2|3|300|prod3
+6|2|3|300|prod3
